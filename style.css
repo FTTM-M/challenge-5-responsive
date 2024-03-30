@@ -15,6 +15,5 @@ p {
 }
 .fa {
   font-family: "Font Awesome 5 Brands";
-  font-size: large;
-  font-weight: 400;
+  margin-top: 10px;
 }
