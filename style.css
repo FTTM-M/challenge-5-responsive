@@ -1,0 +1,20 @@
+h1 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.header {
+  background: #ffc107;
+  display: flex;
+}
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.fa {
+  font-family: "Font Awesome 5 Brands";
+  font-size: large;
+  font-weight: 400;
+}
